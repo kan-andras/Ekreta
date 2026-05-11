@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36717.8 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ekreta", "Ekreta\Ekreta.csproj", "{7CA01AAF-281D-49F7-A2E1-B25D817E6BAB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7CA01AAF-281D-49F7-A2E1-B25D817E6BAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CA01AAF-281D-49F7-A2E1-B25D817E6BAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CA01AAF-281D-49F7-A2E1-B25D817E6BAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CA01AAF-281D-49F7-A2E1-B25D817E6BAB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {212C4679-83C6-438F-B4B8-70FB589D41E9}
+	EndGlobalSection
+EndGlobal
