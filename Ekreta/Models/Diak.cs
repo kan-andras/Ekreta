@@ -9,9 +9,7 @@ namespace Ekreta.Models
 {
     public class Diak
     {
-        public Diak()
-        {
-        }
+        public Diak() { }
 
         public Diak(string vezNev, string utoNev, string szulDatum, string anyjaNeve, string lakcim)
         {
